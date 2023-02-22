@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BaiThucHanh2002",
+    "\\BaiThucHanh2002\\Controllers",
+    "\\BaiThucHanh2002\\Models",
+    "\\BaiThucHanh2002\\Views",
+    "\\BaiThucHanh2002\\Views\\Home",
+    "\\BaiThucHanh2002\\Views\\Shared",
+    "\\BaiThucHanh2002\\Views\\Student",
+    "\\BaiThucHanh2002\\wwwroot",
+    "\\BaiThucHanh2002\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\BaiThucHanh2002\\Controllers\\TeacherController.cs",
+  "PreviewInSolutionExplorer": false
+}
