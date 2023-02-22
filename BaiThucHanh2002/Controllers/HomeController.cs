@@ -12,10 +12,6 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-    public IActionResult BaiThucHanh2202()
-    {
-        return View();
-    }
     public IActionResult Index()
     {
         return View();
