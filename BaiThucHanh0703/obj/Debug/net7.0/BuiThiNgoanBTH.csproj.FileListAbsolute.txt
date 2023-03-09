@@ -1,0 +1,8 @@
+E:\BuiThiNgoanBTH\BaiThucHanh0703\obj\Debug\net7.0\BuiThiNgoanBTH.csproj.AssemblyReference.cache
+E:\BuiThiNgoanBTH\BaiThucHanh0703\obj\Debug\net7.0\BuiThiNgoanBTH.GeneratedMSBuildEditorConfig.editorconfig
+E:\BuiThiNgoanBTH\BaiThucHanh0703\obj\Debug\net7.0\BuiThiNgoanBTH.AssemblyInfoInputs.cache
+E:\BuiThiNgoanBTH\BaiThucHanh0703\obj\Debug\net7.0\BuiThiNgoanBTH.AssemblyInfo.cs
+E:\BuiThiNgoanBTH\BaiThucHanh0703\obj\Debug\net7.0\BuiThiNgoanBTH.csproj.CoreCompileInputs.cache
+E:\BuiThiNgoanBTH\BaiThucHanh0703\obj\Debug\net7.0\BuiThiNgoanBTH.MvcApplicationPartsAssemblyInfo.cache
+E:\BuiThiNgoanBTH\BaiThucHanh0703\obj\Debug\net7.0\BuiThiNgoanBTH.RazorAssemblyInfo.cache
+E:\BuiThiNgoanBTH\BaiThucHanh0703\obj\Debug\net7.0\BuiThiNgoanBTH.RazorAssemblyInfo.cs

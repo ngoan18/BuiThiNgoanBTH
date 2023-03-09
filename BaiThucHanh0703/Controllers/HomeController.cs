@@ -1,8 +1,8 @@
-﻿using System.Diagnostics;
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using BuiThiNgoanBTH.Models;
+using BaiThucHanh0703.Models;
 
-namespace BuiThiNgoanBTH.Controllers;
+namespace BaiThucHanh0703.Controllers;
 
 public class HomeController : Controller
 {
@@ -12,7 +12,6 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-
     public IActionResult Index()
     {
         return View();

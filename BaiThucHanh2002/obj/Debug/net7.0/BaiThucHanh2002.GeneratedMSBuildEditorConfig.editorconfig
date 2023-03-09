@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BaiThucHanh2002
 build_property.RootNamespace = BaiThucHanh2002
-build_property.ProjectDir = e:\NetCore\BuiThiNgoanBTH\BaiThucHanh2002\
+build_property.ProjectDir = e:\BuiThiNgoanBTH\BaiThucHanh2002\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = e:\NetCore\BuiThiNgoanBTH\BaiThucHanh2002
+build_property.MSBuildProjectDirectory = e:\BuiThiNgoanBTH\BaiThucHanh2002
 build_property._RazorSourceGeneratorDebug = 
 
-[e:/NetCore/BuiThiNgoanBTH/BaiThucHanh2002/Views/Home/Index.cshtml]
+[e:/BuiThiNgoanBTH/BaiThucHanh2002/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/NetCore/BuiThiNgoanBTH/BaiThucHanh2002/Views/Home/Privacy.cshtml]
+[e:/BuiThiNgoanBTH/BaiThucHanh2002/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/NetCore/BuiThiNgoanBTH/BaiThucHanh2002/Views/Shared/Error.cshtml]
+[e:/BuiThiNgoanBTH/BaiThucHanh2002/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/NetCore/BuiThiNgoanBTH/BaiThucHanh2002/Views/Shared/_ValidationScriptsPartial.cshtml]
+[e:/BuiThiNgoanBTH/BaiThucHanh2002/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/NetCore/BuiThiNgoanBTH/BaiThucHanh2002/Views/Student/About.cshtml]
+[e:/BuiThiNgoanBTH/BaiThucHanh2002/Views/Student/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/NetCore/BuiThiNgoanBTH/BaiThucHanh2002/Views/Student/Index.cshtml]
+[e:/BuiThiNgoanBTH/BaiThucHanh2002/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/NetCore/BuiThiNgoanBTH/BaiThucHanh2002/Views/Teacher/About.cshtml]
+[e:/BuiThiNgoanBTH/BaiThucHanh2002/Views/Teacher/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/NetCore/BuiThiNgoanBTH/BaiThucHanh2002/Views/Teacher/Index.cshtml]
+[e:/BuiThiNgoanBTH/BaiThucHanh2002/Views/Teacher/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/NetCore/BuiThiNgoanBTH/BaiThucHanh2002/Views/_ViewImports.cshtml]
+[e:/BuiThiNgoanBTH/BaiThucHanh2002/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/NetCore/BuiThiNgoanBTH/BaiThucHanh2002/Views/_ViewStart.cshtml]
+[e:/BuiThiNgoanBTH/BaiThucHanh2002/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/NetCore/BuiThiNgoanBTH/BaiThucHanh2002/Views/Shared/_Layout.cshtml]
+[e:/BuiThiNgoanBTH/BaiThucHanh2002/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tvhtdao8i5
